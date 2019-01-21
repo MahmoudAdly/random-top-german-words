@@ -1,9 +1,5 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-from os import listdir
-from os.path import isfile, join
-import re
-import distutils.dir_util
 import random
 
 print("""Please choose which word list to use:
