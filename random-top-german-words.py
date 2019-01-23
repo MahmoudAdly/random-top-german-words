@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 import random
 
-print("""Please choose which word list to use:
+print("""Please choose the number of the option you want and press ENTER:
 1- Top 2000 words (Wikipedia)
 2- Top 5k words (Internet corpus)
 3- Top 10k words (uni-leipzig.de)
